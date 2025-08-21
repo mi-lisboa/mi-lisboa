@@ -23,7 +23,9 @@
 
 <h2> 💻✨ Sobre Mim </h2>
 
-<p>Sou a Camilli, tenho 16 anos e sou estudante na AFESU Veleiros 
+<p>Sou a Camilli, tenho 16 anos 
+  sou do primeiro ano do ensino medio 
+  faço curso na AFESU Veleiros 
   sou desenvolvedora web. 🚀</p>
 
 <p>Estou aprendendo e explorando o mundo da tecnologia, principalmente desenvolvimento front-end, e busco crescer profissionalmente e pessoalmente todos os dias!</p>
